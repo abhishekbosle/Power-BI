@@ -62,4 +62,4 @@ Customer satisfaction tracking
 
 If you'd like help obtaining templates, setting up the data model, writing specific DAX formulas, or designing visuals, I’m ready to assist!
 
-screenshot - C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-06-19 160612.png
+screenshot - [Motorol dashboard](https://github.com/abhishekbosle/Power-BI/blob/main/Screenshot%202025-06-19%20160036.png)
